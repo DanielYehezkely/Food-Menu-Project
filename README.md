@@ -1,5 +1,7 @@
 ## Figma URL
 
+This project was built by following the **React course** by **John Smilga** on Udemy.
+
 [Menu](https://www.figma.com/file/PwlnSJXCuo4qD2o6EJiuj9/Menu?node-id=0%3A1&t=oaKVwYVqc9Oon2Ts-1)
 
 ## Steps
